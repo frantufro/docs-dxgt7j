@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-fjw3mq.batmantoto6mhf.cfd/sitemap.xml
